@@ -1,6 +1,6 @@
 # This repo provides several demos on how to connect Nucleome Browser with the Python Jupyter notebook 
 
-To run this demo, go to [https://mybinder.org/v2/gh/nucleome/NB_Jupyter_demo/main](https://mybinder.org/v2/gh/zocean/NB_Jupyter_demo/main). You should see a live Jupyter notebook served by Binder. Open the *Nuclome_browser_link_to_Jupyter_notebook.ipynb* and explore the notebook. Note that these example needs to run under the classic notebook (choose **Launch Classic Notebook** under the Help menu). You can also clone this repo to your local machine. 
+To run this demo, go to [https://mybinder.org/v2/gh/nucleome/NB_Jupyter_demo/main](https://mybinder.org/v2/gh/nucleome/NB_Jupyter_demo/main). You should see a live Jupyter notebook served by Binder. Open the *Nuclome_browser_link_to_Jupyter_notebook.ipynb* and explore the notebook. Note that these example needs to run under the classic notebook (choose **Launch Classic Notebook** under the Help menu). You can also clone this repo to your local machine. 
  
 The notebook `Nucleome_browser_link_to_Jupyter_notebook.ipynb` demonstrates a joint analysis using notebook and the Nucleome Browser. To see the result of linking the Nucleome Browser with the Jupyter notebook, open this Nucleome Browser session [https://vis.nucleome.org/v1/main.html?config=/share/jOrDrXjfqfHZIqAUsOFvmvaGbiQxDEyj](https://vis.nucleome.org/v1/main.html?config=/share/jOrDrXjfqfHZIqAUsOFvmvaGbiQxDEyj) in your web browser. 
 
